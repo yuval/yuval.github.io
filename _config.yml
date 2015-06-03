@@ -1,0 +1,12 @@
+# Site settings
+title: Yuval Merhav blog
+email: 
+description: ""
+baseurl: ""
+url: "http://yuval.github.io"
+twitter_username: yuvalmerhav
+github_username:  yuval
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
