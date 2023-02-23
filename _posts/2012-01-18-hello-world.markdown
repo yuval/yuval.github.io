@@ -1,22 +1,6 @@
 ---
 layout: post
-title: Florida Trip
-category: Travel
+title: Hello World
+category: Meta
 
-A few recommendations from a recent winter trip to Florida in Feb 2023 so I don’t forget it for next time…
-
-La Casa Del Pane in St Pete Beach. Fantastic Italian cafe. They make their own bread. Their pesto is the best I’ve ever had. Great place for breakfast. 
-
-Siegfried's in Sarasota. German restaurant with really good food. Everything we tried was excellent. 
-
-Ichi Togarashi in Napels. Asian fusion. I had an amazing eggplant dish here. They also have ramen. 
-
-Gelato & Co in Naples. Didn’t try their Gelato but the eclair was excellent. Good coffee too. 
-
-Italian Food Company in Key Largo. They have an old fiat car inside the restaurant and a roof top. Pretty cool. The pasta filled with pear and cheese was to die for. Trust me and order it. 
-
-Bayside Gourmet in Islamorada. Also Italian with high reviews on Google. We didn’t eat here because TBH the pizza in the counter didn’t look appealing. However, they have an arcade area with cool games from the 90’s so it was worth the stop. 
-
-John Pennekamp reef state park in the Key Largo. We did snorkeling at Canon beach which was pretty fun. When you go deep enough you can see some fish. We also did a snorkeling tour on a boat that was amazing. Clear and deep waters. We saw very cool fish including reef sharks. 
-
-Shark Valley in Everglades Park. 15 miles trail. Come early and rent a bike.
+Hello World. 
