@@ -1,16 +1,22 @@
 ---
 layout: post
-title: Hello World!
-category: Meta
+title: Florida Trip
+category: Travel
 
-excerpt: Hello World! Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie mauris mattis. Suspendisse semper consequat velit in suscipit.
+A few recommendations from a recent winter trip to Florida in Feb 2023 so I don’t forget it for next time…
 
----
+La Casa Del Pane in St Pete Beach. Fantastic Italian cafe. They make their own bread. Their pesto is the best I’ve ever had. Great place for breakfast. 
 
-Hello World!
+Siegfried's in Sarasota. German restaurant with really good food. Everything we tried was excellent. 
 
-This is just a sample post.
+Ichi Togarashi in Napels. Asian fusion. I had an amazing eggplant dish here. They also have ramen. 
 
-Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie mauris mattis. Suspendisse semper consequat velit in suscipit. Praesent blandit, mi id facilisis adipiscing, tortor tellus mollis quam, sed dignissim sapien diam ac lectus. Nunc eget ornare quam. Vivamus sit amet tortor dolor, non egestas ligula. Mauris nisi risus, semper nec blandit id, suscipit eget dolor. Sed placerat odio at erat porttitor varius. Phasellus ornare vestibulum dolor ac rhoncus. Mauris laoreet varius est eu rhoncus. Curabitur facilisis mauris eu purus pharetra vitae tincidunt nulla gravida. Duis sagittis, felis a luctus mattis, metus sem tempus velit, sit amet blandit tellus nisi id augue.
+Gelato & Co in Naples. Didn’t try their Gelato but the eclair was excellent. Good coffee too. 
 
-Proin feugiat libero ac lorem mollis fermentum. Cras et lacus sodales nisl facilisis ornare. Sed dolor eros, pulvinar ac varius non, bibendum eget odio. Nulla facilisi. Pellentesque et nisi a tellus ullamcorper faucibus. Nullam sagittis tempor mi non mattis. Proin ultricies, enim sit amet bibendum tristique, ligula ante feugiat nunc, sit amet imperdiet tortor nisl et felis. Pellentesque et nisl dui, non dictum libero. Vivamus tempor ante ac leo suscipit a sodales ligula iaculis. Curabitur massa mi, semper sed bibendum eget, auctor in nulla. Quisque at mi in ligula viverra suscipit sed vitae leo. 
+Italian Food Company in Key Largo. They have an old fiat car inside the restaurant and a roof top. Pretty cool. The pasta filled with pear and cheese was to die for. Trust me and order it. 
+
+Bayside Gourmet in Islamorada. Also Italian with high reviews on Google. We didn’t eat here because TBH the pizza in the counter didn’t look appealing. However, they have an arcade area with cool games from the 90’s so it was worth the stop. 
+
+John Pennekamp reef state park in the Key Largo. We did snorkeling at Canon beach which was pretty fun. When you go deep enough you can see some fish. We also did a snorkeling tour on a boat that was amazing. Clear and deep waters. We saw very cool fish including reef sharks. 
+
+Shark Valley in Everglades Park. 15 miles trail. Come early and rent a bike.
