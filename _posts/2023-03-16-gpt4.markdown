@@ -24,7 +24,7 @@ $ cat x
 ```
 There are 3 chars here. The Euro sign, space, and a [Chinese character](https://www.compart.com/en/unicode/U+9474).
 
-I now asked it to tell me if the following command would crash if I'm using Python 3.7. 
+I then asked it to tell me if the following command would crash if I'm using Python 3.7. 
 
 ```
 $ LANG=C python -c 'import sys; print(open(sys.argv[1]).read())' x
