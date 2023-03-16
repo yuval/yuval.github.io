@@ -1,10 +1,10 @@
-# GPT4
+## GPT4
 
 GPT4 is out and it's amazing. I use it daily for all sorts of tasks, esp coding. I feel I now do more code reviews than actual coding. 
 
 I've seen posts on Twitter about the future of NLP and what problems are still worth tackeling outside of large LMs. This is an interesting topic. I don't have the answer. I do have some thoughts but instead of rambling I will show an example. 
 
-# Python and Text Encodings
+### Python and Text Encodings
 
 I noticed that GPT doesn't specify encoding when it shows code examples involving opening a text file in Python. For example:
 
@@ -54,5 +54,5 @@ With the UTF-8 Mode active, Python will use the UTF-8 encoding to read the file 
 
 ```
 
-Pretty good. I didn't try it with GPT3/3.5. From playing with GPT4 in the last 24 hours I don't think any prior models would do better. NLP researchers - Do we need a new, more complex Question Answering dataset? 
+Pretty good. I didn't try it with GPT3/3.5. From playing with GPT4 in the last 24 hours I don't think any prior models would do better.
 
