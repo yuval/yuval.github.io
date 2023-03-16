@@ -424,3 +424,14 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+
+@media screen and (max-width: 600px) {
+  .post pre,
+  .post code {
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: pre;
+    word-wrap: normal;
+  }
+}
