@@ -30,6 +30,8 @@ I then asked it to tell me if the following command would crash if I'm using Pyt
 $ LANG=C python -c 'import sys; print(open(sys.argv[1]).read())' x
 ```
 
+(it doesn't; it correctly prints € 鑴)
+
 GPT4's answer:
 
 > The LANG=C environment setting forces the use of the C/POSIX locale, which is an ASCII-based locale. In this case, since the file x contains non-ASCII characters (the Euro sign (€) and the CJK Unified Ideograph (鑴)), the command:
