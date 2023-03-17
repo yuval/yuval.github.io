@@ -1,6 +1,6 @@
 ## GPT4
 
-GPT4 is out and it's amazing. I use it daily for all sorts of tasks, esp coding. I feel I now do more code reviews than actual coding. 
+GPT4 is out and it's amazing. I use it daily for all sorts of tasks, esp coding (in addition to Co-pilot etc.). I feel I now do more code reviews and apply fixes than actual coding.
 
 I've seen posts on Twitter about the future of NLP and what problems are still worth tackeling outside of large LMs. This is an interesting topic. I don't have the answer. I do have some thoughts but instead of rambling I will show an example in a domain GPT4 knows well. 
 
