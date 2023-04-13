@@ -15,7 +15,7 @@ with open(file_path, 'r') as file:
 
 I'm assuming that's because most code it has seen doesn't specify encoding even though it's still needed for portability. If you tell it you want the code to be portable or that you live in China for example, it'd recommend to add 'encoding='utf-8'. It clearly knows what it is for. 
 
-A while ago I had a dicussion with a friend about this topic so I decided to challenge GPT4 a bit. I showed it the following command line snippet:
+A while ago I had a discussion with a friend about this topic so I decided to challenge GPT4 a bit. I showed it the following command line snippet:
 
 ```
 $ python -c 'print("\u20ac \u9474")' >x
